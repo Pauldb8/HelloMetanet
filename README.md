@@ -22,3 +22,23 @@ Get together for a weekend in Berlin, learn, build and have fun doing so
  
 Hello Meta
 Bye http 
+
+Agenda
+
+Friday, 17. May
+20:00 Welcome Dinner at Meta
+http://www.restaurant-meta.de/
+
+Saturday, 18. May
+09:00 Meta Breakfast
+10:00 Bitcoin as a computer - Paul
+11:00 BSV Hacking
+13:00 Lunch
+14:00 BSV Hacking
+16:00 guest speaker to be confirmed
+18:00 BSV Hacking
+
+Sunday, 19. May
+10:00 guest speaker to be confirmed
+11:00 BSV Hacking TBD
+16:00 Onwards to new adventures (the end)!
