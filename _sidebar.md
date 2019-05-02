@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Weekend](weekend.md)
+* [Weekend's Agenda](weekend.md)

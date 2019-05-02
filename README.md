@@ -1,7 +1,8 @@
 # Hello Metanet - Developers Weekend !
 
 ### Idea
-  Get together and try to understand how bitcoinsv can be used to develop applications using planaria, bitdb, siteloader etc.
+  Get together and try to understand how bitcoinsv can be used to develop applications using planaria, bitdb, siteloader etc.<br>
+  See [weekend's agenda](weekend.md) for more information.
 
 ### Context
   In the past few months a new computing paradigm seems to emerge:
