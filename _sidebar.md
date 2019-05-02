@@ -2,3 +2,4 @@
 
 * [Home](/)
 * [Weekend's Agenda](weekend.md)
+* [Resources](resources.md)
