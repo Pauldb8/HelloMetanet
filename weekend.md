@@ -6,9 +6,9 @@ Rough timetable, migt be subject to small changes.
 
 ## Saturday May 18<sup>th</sup>  [@A2029](http://a2029.org/space)
  - 09:00 Meta Breakfast
- - 10:00 The Genesis of MetaNet by Stedan Landrock
+ - 10:00 The Genesis of MetaNet by Stefan Landrock
  - 10:20 Bitcoin as a Computer by Paul R. De Buck
- - 10:40 Introduction to MoneyButton by Christophe Bergmann
+ - 10:40 Introduction to MoneyButton by Christoph Bergmann
  - 11:00 Meta Hacking
  - 13:00 Lunch
  - 14:00 Meta Hacking
