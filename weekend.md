@@ -32,7 +32,7 @@ Rough timetable, migt be subject to small changes.
  - Rinse and repeat 4)-5) until exhaustion :-)
 
  ### Organizers
-Ekhard<br>
-Stefan<br>
-Paul<br>
-Christoph<br>
+ - Ekhard<br>
+ - Stefan<br>
+ - Paul<br>
+ - Christoph<br>
