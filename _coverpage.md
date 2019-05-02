@@ -11,4 +11,4 @@
 - Learn about Bitcoin SV
 - Learn & build on Planaria
 
-[Get Started](#Workshop)
+[Get Started](#Idea)
