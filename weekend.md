@@ -2,13 +2,13 @@
 Rough timetable, might be subject to small changes.
 
 ## Firday May 17<sup>th</sup>
-20:00 Meta Schnitzel at Café Meta
+20:00 Meta Schnitzel at [Café Meta](http://www.restaurant-meta.de/)
 
-Get to know each other while having dinner & drinks at [Café Meta](http://www.restaurant-meta.de/)<br> [Am Falkplatz 1
+Get to know each other while having dinner & drinks<br>Address: [Am Falkplatz 1
 10437 Berlin](https://goo.gl/maps/xiijqAkL2nN2m5wc6)
 
 ## Saturday May 18<sup>th</sup> 
-All learning and hacking takes place at [A2029](http://a2029.org/space)<br> [Prinzessinnenstrasse 16, 10969 Berlin](https://goo.gl/maps/Sj1KUaguBZTHf6WS6)
+All learning and hacking takes place at [A2029](http://a2029.org/space)<br>Address: [Prinzessinnenstrasse 16, 10969 Berlin](https://goo.gl/maps/Sj1KUaguBZTHf6WS6)
 
  - 09:00 Meta Breakfast
  - 10:00 The Genesis of MetaNet - Stefan Landrock
