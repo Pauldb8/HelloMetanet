@@ -10,6 +10,17 @@ Store and share text and files on the Bitcoin (SV) blockchain, at the swipe of a
 https://bico.media/<br>
 Bico.Media is for the content creators. From the outside, it's a gateway to data stored in a bitcoin sv transaction. From the inside, its a way of thinking of static data in a dynamic context.
 
+### BitcoinFiles
+https://www.bitcoinfiles.org/<br>
+Save and share content, images, and files on the Bitcoin (SV) blockchain. <br>
++ Bitcoin Asset: Tokenize and turn any file or data into an asset. 
+
+### MetaSite-Loader 
+A Service Worker based Siteloader for metanet website. Enables multi files website. <br>
+https://github.com/monkeylord/MetaSite-Loader<br>
+by [Monkeylord](https://bico.media/579c7ece7d118469254035e53a11ff7ab4c64e0f0aa4bb7f65151fe63ea42018/index.html)
+
+
 ### Preserve by&nbsp;[Libs](https://twitter.com/libitx)
 https://preserve.bitpaste.app<br>
 Deploy HTML pages, static files and entire websites to the Bitcoin blockchain. Immutably preserved for eternity.
