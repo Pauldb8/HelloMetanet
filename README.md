@@ -2,6 +2,7 @@
 
 ### Idea
   Get together and try to understand how bitcoinsv can be used to develop applications using planaria, bitdb, siteloader etc.<br>
+  
   See [weekend's agenda](weekend.md) for more information.
 
 ### Context
