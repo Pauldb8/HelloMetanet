@@ -16,9 +16,8 @@ Save and share content, images, and files on the Bitcoin (SV) blockchain. <br>
 Tokenize and turn any file or data into a Bitcoin asset. 
 
 ### MetaSite-Loader 
-A Service Worker based Siteloader for metanet website. Enables multi files website. <br>
 https://github.com/monkeylord/MetaSite-Loader<br>
-by [Monkeylord](https://bico.media/579c7ece7d118469254035e53a11ff7ab4c64e0f0aa4bb7f65151fe63ea42018/index.html)
+A Service Worker based Siteloader for metanet website. Enables multi files website. <br>
 
 
 ### Preserve by&nbsp;[Libs](https://twitter.com/libitx)
