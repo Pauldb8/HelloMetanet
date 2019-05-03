@@ -1,5 +1,5 @@
 # Planning of the weekend
-Rough timetable, migt be subject to small changes.
+Rough timetable, might be subject to small changes.
 
 ## Firday May 17<sup>th</sup>
 20:00 Meta Schnitzel at Café Meta
