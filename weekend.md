@@ -3,6 +3,7 @@ Rough timetable, migt be subject to small changes.
 
 ## Firday May 17<sup>th</sup>
 20:00 Meta Schnitzel at Café Meta
+
 Get together and have welcome dinner & drinks at [Café Meta](http://www.restaurant-meta.de/), [Am Falkplatz 1
 10437 Berlin](https://goo.gl/maps/xiijqAkL2nN2m5wc6)
 
