@@ -13,7 +13,7 @@ Bico.Media is for the content creators. From the outside, it's a gateway to data
 ### BitcoinFiles
 https://www.bitcoinfiles.org/<br>
 Save and share content, images, and files on the Bitcoin (SV) blockchain. <br>
-+ Bitcoin Asset: Tokenize and turn any file or data into an asset. 
+Tokenize and turn any file or data into a Bitcoin asset. 
 
 ### MetaSite-Loader 
 A Service Worker based Siteloader for metanet website. Enables multi files website. <br>
