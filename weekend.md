@@ -11,13 +11,13 @@ Get to know each other while having dinner & drinks at [Café Meta](http://www.r
 All learning and hacking takes place at [A2029](http://a2029.org/space)<br> [Prinzessinnenstrasse 16, 10969 Berlin](https://goo.gl/maps/Sj1KUaguBZTHf6WS6)
 
  - 09:00 Meta Breakfast
- - 10:00 The Genesis of MetaNet by Stefan Landrock
- - 10:20 Bitcoin as a Computer by Paul R. De Buck
- - 10:40 Introduction to MoneyButton by Christoph Bergmann
+ - 10:00 The Genesis of MetaNet - Stefan Landrock
+ - 10:20 Bitcoin as a Computer - Paul De Buck
+ - 10:40 Introduction to MoneyButton - Christoph Bergmann
  - 11:00 Meta Hacking
  - 13:00 Lunch
  - 14:00 Meta Hacking
- - 16:00 Guest Speaker: MonkeyLord: Demo of SiteUploader
+ - 16:00 Guest Speaker: MonkeyLord: Demo of Siteloader
  - 17:00 Meta Hacking - Open End
 
  ## Sunday May 19<sup>th</sup> 
