@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](hellometanet-icon-white-trans.png)
+![logo](hellometanet-icon-white-trans-620.png)
 
 
 # Hello Metanet 
