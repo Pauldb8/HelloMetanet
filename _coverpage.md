@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](BSV_nav_bar_logo_small.png)
+![logo](hellometanet-icon-white-trans.png)
 
 
 # Hello Metanet 
