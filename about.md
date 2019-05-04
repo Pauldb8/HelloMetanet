@@ -9,7 +9,7 @@ Contact:<br>
 contact@hellometa.net
 
 Telegram:<br>
-"Hello Metanet"-Workshop Berlin 
+["Hello Metanet"-Workshop Berlin](https://t.me/joinchat/HFFBI1QKUOTHzQ580gVm8w)
 
 Website:<br>
 [hellometa.net](https://hellometa.net)
