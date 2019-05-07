@@ -1,7 +1,7 @@
 # Planning of the weekend
 Rough timetable, might be subject to small changes.
 
-## Firday May 17<sup>th</sup>
+## Friday May 17<sup>th</sup>
 20:00 Meta Schnitzel at [Café Meta](http://www.restaurant-meta.de/)
 
 Get to know each other while having dinner & drinks<br>Address: [Am Falkplatz 1
