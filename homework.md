@@ -26,4 +26,4 @@ Organisational nitty-gritty:
 
 So that's it!
 
-[See you in Berlin on the 18.5.](weekend) (or maybe the evening before)!
+[See you in Berlin on the 18.5.](weekend.md) (or maybe the evening before)!
