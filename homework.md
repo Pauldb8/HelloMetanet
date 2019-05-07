@@ -5,7 +5,7 @@ It's only a few days now until it all starts happening, and we're very much look
 To make sure that we all start with some common foundations, we (the organisation committee) ask you to do some preparation:
 
 Intellectual stuff to read or watch, mandatory:
-- Planarias introduction to the bitcoin computer: https://docs.planaria.network/#/intro
+- Planaria: [Introduction to the bitcoin computer](https://docs.planaria.network/#/intro)
 - Article by Brendan Lee (Tokenized) about [bitcoin as world computer](https://coingeek.com/bitcoin-as-a-world-computer/)
 - Unwriters historic endorsement of Bitcoin SV ["The resolutioin of the Bitcoin Cash experiment"](https://medium.com/@_unwriter/the-resolution-of-the-bitcoin-cash-experiment-52b86d8cd187)
 - Brendan Lee: [What is the MetaNet?](https://youtu.be/LbFoz7JKqkU)
