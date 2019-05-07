@@ -7,15 +7,15 @@ To make sure that we all start with some common foundations, we (the organisatio
 Intellectual stuff to read or watch, mandatory:
 - Planaria: [Introduction to the bitcoin computer](https://docs.planaria.network/#/intro)
 - Article by Brendan Lee (Tokenized): [Bitcoin as a world computer](https://coingeek.com/bitcoin-as-a-world-computer/)
-- Unwriters historic endorsement of Bitcoin SV ["The resolutioin of the Bitcoin Cash experiment"](https://medium.com/@_unwriter/the-resolution-of-the-bitcoin-cash-experiment-52b86d8cd187)
+- Unwriters historic endorsement of Bitcoin SV: ["The resolutioin of the Bitcoin Cash experiment"](https://medium.com/@_unwriter/the-resolution-of-the-bitcoin-cash-experiment-52b86d8cd187)
 - Brendan Lee: [What is the MetaNet?](https://youtu.be/LbFoz7JKqkU)
-- Joshua Henslee ["unwriter tools explained"](https://www.yours.org/content/_unwriter-s-tools-explained--practical-use-cases-reviewed-93d7bff2fef8) including suggestions for use cases,
+- Joshua Henslee: ["unwriter tools explained"](https://www.yours.org/content/_unwriter-s-tools-explained--practical-use-cases-reviewed-93d7bff2fef8) including suggestions for use cases,
 
 Bonus, not mandatory, in case you are hooked and have time to spare:
 - Brendan Lee: [The power of scale](https://youtu.be/4Bni20gEIcA)
 - Craig Wright about [Turing completeness of Bitcoin Script](https://www.youtube.com/watch?v=moA7KASx3WE) (slightly technical/mathematical)
 - Joshua Henslee: [Example of a one-page checkout blocksite](https://www.yours.org/content/one-page-checkout-using-handcash---moneybutton---100--on-chain-3dc2e9399d36)
-- Daniel Krawisz about [Programming with planaria](https://youtu.be/QMQ4KYU4Uzw)
+- Daniel Krawisz: [Programming with planaria](https://youtu.be/QMQ4KYU4Uzw)
 
 Organisational nitty-gritty:
 - install the [bottle browser](https://bottle.bitdb.network/) on your machine
