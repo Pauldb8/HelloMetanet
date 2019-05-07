@@ -6,7 +6,7 @@ To make sure that we all start with some common foundations, we (the organisatio
 
 Intellectual stuff to read or watch, mandatory:
 - Planaria: [Introduction to the bitcoin computer](https://docs.planaria.network/#/intro)
-- Article by Brendan Lee (Tokenized) about [bitcoin as world computer](https://coingeek.com/bitcoin-as-a-world-computer/)
+- Article by Brendan Lee (Tokenized): [Bitcoin as a world computer](https://coingeek.com/bitcoin-as-a-world-computer/)
 - Unwriters historic endorsement of Bitcoin SV ["The resolutioin of the Bitcoin Cash experiment"](https://medium.com/@_unwriter/the-resolution-of-the-bitcoin-cash-experiment-52b86d8cd187)
 - Brendan Lee: [What is the MetaNet?](https://youtu.be/LbFoz7JKqkU)
 - Joshua Henslee ["unwriter tools explained"](https://www.yours.org/content/_unwriter-s-tools-explained--practical-use-cases-reviewed-93d7bff2fef8) including suggestions for use cases,
