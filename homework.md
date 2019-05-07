@@ -1,4 +1,4 @@
-HOMEWORK ASSIGNMENT 😊
+# HOMEWORK ASSIGNMENT 😊
 
 Hi participants of the worlds first "Hello Metanet" workshop in Berlin!
 It's only a few days now until it all starts happening, and we're very much looking forward to it.
