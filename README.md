@@ -31,6 +31,3 @@ Handle / Username: hellometanet
 Only a few seats left
 contact@hellometa.net
 
-
-### Hello Meta
-### Bye http 
