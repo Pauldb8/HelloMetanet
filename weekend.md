@@ -36,8 +36,5 @@ All learning and hacking takes place at [A2029](http://a2029.org/space)<br>Addre
  - Phase present: results of 3) to the group, discuss achievements, what has been learned, what has not been understood, what has been difficult
  - Rinse and repeat 4)-5) until exhaustion :-)
 
- ### Organizers
- - Ekhard<br>
- - Stefan<br>
- - Paul<br>
- - Christoph<br>
+ ### HOMEWORK ASSIGNMENT
+[Prepare for the worst, hope for the best!](homework)
