@@ -1,7 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-### Hello Meta
-### Bye http 
+### Hello Meta<br>Bye http 
 
 * [Home](/)
 * [Weekend's Agenda](weekend.md)
