@@ -18,7 +18,7 @@ Bonus, not mandatory, in case you are hooked and have time to spare:
 - Daniel Krawisz about [Programming with planaria](https://youtu.be/QMQ4KYU4Uzw)
 
 Organisational nitty-gritty:
-- install the bottle browser on your machine
+- install the [bottle browser](https://bottle.bitdb.network/) on your machine
 - get a moneybutton account https://www.moneybutton.com
 - get a mobile bsv wallet https://handcash.io/ or https://www.centbee.com/
 - get a github account. We want to use github for documentation purposes
