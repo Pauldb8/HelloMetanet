@@ -19,9 +19,9 @@ Bonus, not mandatory, in case you are hooked and have time to spare:
 
 Organisational nitty-gritty:
 - install the [bottle browser](https://bottle.bitdb.network/) on your machine
-- get a moneybutton account https://www.moneybutton.com
-- get a mobile bsv wallet https://handcash.io/ or https://www.centbee.com/
-- get a github account. We want to use github for documentation purposes
+- get a [moneybutton account](https://www.moneybutton.com)
+- get a mobile bsv wallet: [Handcash](https://handcash.io/) or [CentBee](https://www.centbee.com/)
+- get a [github account](https://github.com/). We want to use github for documentation purposes
 - get a account in the [atlantis slack](https://bitdb.network/atlantis). We could ask for help in there.
 
 So that's it!
