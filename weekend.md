@@ -37,4 +37,4 @@ All learning and hacking takes place at [A2029](http://a2029.org/space)<br>Addre
  - Rinse and repeat 4)-5) until exhaustion :-)
 
 ## HOMEWORK ASSIGNMENT
-[Prepare for the worst, hope for the best!](homework.md)
+- [Required reading and recommended preparations](homework.md)
